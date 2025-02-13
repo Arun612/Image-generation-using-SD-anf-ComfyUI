@@ -1,1 +1,1 @@
-# Image-generation-using-SD-anf-ComfyUI
+# Image-generation-using-SD-and-ComfyUI
